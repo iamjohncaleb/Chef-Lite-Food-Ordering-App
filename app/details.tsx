@@ -1,5 +1,4 @@
 
-
 import { View, Text, StyleSheet, Image, TouchableOpacity, SectionList, ListRenderItem, ScrollView } from 'react-native';
 import React, { useLayoutEffect, useRef, useState } from 'react';
 import ParallaxScrollView from '@/Components/ParallaxScrollView';
